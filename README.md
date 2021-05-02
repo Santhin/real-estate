@@ -47,17 +47,18 @@ python app.py
 │   │   ├── ranking_otodom.csv
 │   │   ├── ranking.txt
 │   │   └── ranking.xlsx
-│   ├── ML\ endgame\ floydhub.ipynb
-│   ├── ML\ endgame.ipynb
-│   ├── NLP\ eda\ etc.ipynb
-│   ├── pictures
-│   │   ├── images.png
-│   │   ├── ml_map.png
-│   │   ├── simple-house-exterior-white-background_1308-50195.jpg
-│   │   ├── unnamed.jpg
-│   │   └── white-house-background-check-democratic-party-republican-party-house-png.jpg
-│   ├── Pipeline\ mongoRaw\ to\ clean\ before\ EDA.ipynb
-│   └── real\ EDA.ipynb
+│   ├── notebooks
+│   │   ├── ML\ endgame\ floydhub.ipynb
+│   │   ├── ML\ endgame.ipynb
+│   │   ├── NLP\ eda\ etc.ipynb
+│   │   ├── Pipeline\ mongoRaw\ to\ clean\ before\ EDA.ipynb
+│   │   └── real\ EDA.ipynb
+│   └── pictures
+│       ├── images.png
+│       ├── ml_map.png
+│       ├── simple-house-exterior-white-background_1308-50195.jpg
+│       ├── unnamed.jpg
+│       └── white-house-background-check-democratic-party-republican-party-house-png.jpg
 └── README.md
 
 6 directories, 32 files
