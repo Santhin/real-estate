@@ -6,7 +6,7 @@
 import scrapy
 
 
-class Gumtreev2Item(scrapy.Item):
+class GumtreeItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

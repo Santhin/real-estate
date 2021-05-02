@@ -9,7 +9,7 @@ from scrapy import signals
 from itemadapter import is_item, ItemAdapter
 
 
-class Gumtreev2SpiderMiddleware:
+class GumtreeSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
@@ -56,7 +56,7 @@ class Gumtreev2SpiderMiddleware:
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-class Gumtreev2DownloaderMiddleware:
+class GumtreeDownloaderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the downloader middleware does not modify the
     # passed objects.

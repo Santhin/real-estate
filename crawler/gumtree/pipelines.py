@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class Gumtreev2Pipeline:
+class GumtreePipeline:
     def process_item(self, item, spider):
         return item

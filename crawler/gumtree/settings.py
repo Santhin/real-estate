@@ -1,7 +1,7 @@
 
-BOT_NAME = 'gumtreev2'
-SPIDER_MODULES = ['gumtreev2.spiders']
-NEWSPIDER_MODULE = 'gumtreev2.spiders'
+BOT_NAME = 'gumtree'
+SPIDER_MODULES = ['gumtree.spiders']
+NEWSPIDER_MODULE = 'gumtree.spiders'
 ROBOTSTXT_OBEY = False
 
 AUTOTHROTTLE_ENABLED=True
